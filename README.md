@@ -1,0 +1,1 @@
+`Bank Otoman` is a JavaScript DOM project. During design I've used CSS3. Here in this poejct user can login his/her account and then deposit money, withdraw money and will be able to see current total balance. All functionalities was done by JavaScript DOM.
