@@ -33,6 +33,10 @@ span{
     color: #ff3838;
 }
 
+.span-balance{
+    color: #fff;
+}
+
 .navBar ul{
     list-style: none;
     display: flex;
